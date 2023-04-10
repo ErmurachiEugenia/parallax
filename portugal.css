@@ -1,0 +1,91 @@
+@font-face{
+  font-family: 'handwritten';
+  src: url('Digory_Doodles_PS.ttf');
+}
+@font-face{
+  font-family: 'bodypolice';
+  src: url('AnticDidone-Regular.otf');
+}
+#bloc_page
+{background-color: black;
+color:#f2ccb3;}
+h1
+{padding-top: 100px;
+padding-bottom: 50px;
+text-align: center;	
+font-size: 2.5em;
+font-family:'handwritten', sans-serif;
+}
+p
+{
+font-family: 'bodypolice', 'handwritten', sans-serif;
+text-align: center;
+font-size: 2em;
+min-height: 150px;
+padding: 20% 5%;}
+
+.IPCA
+{
+background-image: url("IPCA.jpg");
+min-height: 600px;
+background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+  color: black;
+
+}
+.etudiants
+{
+background-image: url("etudiants.jpg");
+min-height: 600px;
+	 background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8
+}
+.bienveillance
+{
+background-image: url("bienveillance.jpg");
+min-height: 600px;
+	 background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+  color: black;
+}
+.soleil
+{
+background-image: url("soleil.jpg");
+min-height: 600px;
+	 background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8
+}
+.bonheur
+{
+background-image: url("bonheur.jpg");
+min-height: 600px;
+	 background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+  color: black;
+}
+.fin
+{
+background-image: url("fin.jpg");
+min-height: 600px;
+     background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+  color: black;
+}
